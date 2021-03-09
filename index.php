@@ -61,9 +61,9 @@
       <p>Nuestro proyecto trata de ofrecer un servicio para desarrollar web y app  de una forma más rápida, eficiente ecocomica y cómoda en el manejo de todas las empresas que estén comenzando o buscan actualizar sus sistemas.</p>
       <p>Tambien nos dedicamos al desarrollo de implementaciones de red y otros servicios</p>
       <div class="about-gallery">
-        <img src="img/logo2_DAWS.jpg" alt="">
-        <img src="img/logo2_DAWS.jpg" alt="">
-        <img src="img/logo2_DAWS.jpg" alt="">
+        <img src="DAWS/img/logo2_DAWS.jpg" alt="">
+        <img src="DAWS/img/logo2_DAWS.jpg" alt="">
+        <img src="DAWS/img/logo2_DAWS.jpg" alt="">
       </div>
 
       <div class="about-more"><button>Leer mas</button></div>
@@ -102,7 +102,7 @@
 
      <div class="box-testimonio">
       <div class="card-testimonio">
-        <div class="card-img"><img src="img/" alt=""></div>
+        <div class="card-img"><img src="DAWS/img/" alt=""></div>
         <div class="testimonio-text">
         <h4>Jorge Luis Muñiz Coca</h4>
         <p>developing manager</p>
@@ -110,7 +110,7 @@
       </div>
 
       <div class="card-testimonio">
-          <div class="card-img"><img src="img/" alt=""></div>
+          <div class="card-img"><img src="DAWS/img/" alt=""></div>
           <div class="testimonio-text">
           <h4>Félix Andrés Almonte P.</h4>
           <p>database development manager</p>
@@ -118,7 +118,7 @@
         </div>
 
         <div class="card-testimonio">
-            <div class="card-img"><img src="img/" alt=""></div>
+            <div class="card-img"><img src="DAWS/img/" alt=""></div>
             <div class="testimonio-text">
             <h4>Christofer Laurencio felíz</h4>
             <p>marketing manager</p>
@@ -126,7 +126,7 @@
           </div>
 
           <div class="card-testimonio">
-              <div class="card-img"><img src="img/" alt=""></div>
+              <div class="card-img"><img src="DAWS/img/" alt=""></div>
               <div class="testimonio-text">
               <h4>Eudy F. Perez</h4>
               <p>graphic design </p>
