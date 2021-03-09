@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <!--Css -->
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="DAWS/css/styles.css">
 
     <link href="https://fonts.googleapis.com/css?family=Red+Hat+Text:400,500,700&display=swap" rel="stylesheet">
 
