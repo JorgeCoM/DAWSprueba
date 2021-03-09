@@ -83,11 +83,11 @@
           <hr>
         </div>
           <div class="project-img">
-            <img src="img/logo.jpg" alt="">
+            <img src="DAWS/img/logo.jpg" alt="">
             <p class="text-content"></p>
-            <img src="img/Logo Nuevo.jpg" alt="">
+            <img src="DAWS/img/Logo Nuevo.jpg" alt="">
             <p class="text-content"></p>
-            <img src="img/logo2_DAWS.jpg" alt="">
+            <img src="DAWS/img/logo2_DAWS.jpg" alt="">
             <p class="text-content"></p>
          </div>
    <div class="skew-abajo"></div>
