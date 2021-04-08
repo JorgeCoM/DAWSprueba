@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="css/contacto2.css">
+</head>
+
+<body>
+  <!-- Imagen Header -->
+  <div class="img-header">
+    <div class="welcome" id="inicio">
+    </div>
+  </div>
+  <div class="skew-abajo"></div>
+  <div class="wrapper">
+    <div class="title">
+      ¿En que consiste?</div>
+    <form action="informacion.php" method="POST">
+      <div class="field">
+        <input name="NombreTx" type="text" required>
+        <label>Propietario</label>
+      </div>
+      <div class="field">
+        <input name="sitioTx" type="text" required>
+        <label>Nombre de la web</label>
+      </div>
+      <div class="field">
+        <input name="temaTx" type="text" required>
+        <label>Tema de la web</label>
+      </div>
+      <div class="field">
+        <input name="correoTx" type="text" required>
+        <label>Correo electronico</label>
+      </div>
+      <div class="field">
+        <textarea placeholder="Desbriba el sitio web" name="comentarioTx" id="" cols="30" rows="10" required></textarea>
+        <label></label>
+      </div>
+      <div class="content">
+        <div class="checkbox">
+        </div>
+        <div class="pass-link">
+        </div>
+      </div>
+      <div class="field">
+        <input type="submit" name="botonTx" value="Enviar">
+      </div>
+    </form>
+  </div>
+  <a class="atras" href="contacto.html">Volver</a>
+</body>
+
+</html>
