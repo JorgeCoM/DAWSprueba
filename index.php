@@ -33,7 +33,7 @@
             <li><a href="#nosotros">Nosotros</a></li>
             <li><a href="#proyectos">Proyectos</a></li>
             <li><a href="#Fundadores">Fundadores</a></li>
-            <li><a href="contacto.html">Contacto</a></li>
+            <li><a href="DAWS/contacto.html">Contacto</a></li>
         </ul>
      </div>
     </nav>
